@@ -8,24 +8,22 @@ public:
         }
 
         // 2. create a min heap to auto sort the value
-        priority_queue<pair<int,int>, vector<pair<int,int>>, greater<pair<int,int>>> heap;
+        priority_queue<pair<int,int>> heap;
         for(auto val : hash_map) {
             heap.push({val.second, val.first});
-
-            // 3. min heap makesure that the top element are not included on the K-th frequent element
-            if(heap.size() > k) {
-                heap.pop();
-            }
         }
 
-        // 4. take out the value {frequencies : value}
+        // 3. pop the heap and take only the K-th element.
         vector<int> res;
         while(!heap.empty()) {
+            if(res.size() == k) {
+                break;
+            }
             res.push_back(heap.top().second);
             heap.pop();
         }
 
-        // 5. return the vector
+        // 4. return the vector
         return res;
     }
 };
