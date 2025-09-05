@@ -1,7 +1,9 @@
 A collection of LeetCode questions to ace the coding interviews! - Created using [LeetHub 2.0 for Firefox](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 
 # My LeetCode Progress
-10 problems solved ð
+<!-- PROBLEM_COUNT:START -->
+0 problems solved 🚀
+<!-- PROBLEM_COUNT:END -->
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
