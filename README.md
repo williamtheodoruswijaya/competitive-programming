@@ -1,7 +1,7 @@
 A collection of LeetCode questions to ace the coding interviews! - Created using [LeetHub 2.0 for Firefox](https://github.com/maitreya2954/LeetHub-2.0-Firefox)
 
 # My LeetCode Progress
-10 problems solved 🚀
+10 problems solved ð
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0049-group-anagrams](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0347-top-k-frequent-elements) |
 | [0605-can-place-flowers](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0605-can-place-flowers) |
 | [2058-concatenation-of-array](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/2058-concatenation-of-array) |
@@ -73,4 +74,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [2058-concatenation-of-array](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/2058-concatenation-of-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
