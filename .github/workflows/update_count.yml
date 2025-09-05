@@ -5,17 +5,25 @@ on:
     branches:
       - main
 
+permissions:
+  contents: write
+
 jobs:
   update-count:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.x'
+
       - name: Run counter script
         run: python counter.py
+
       - name: Commit changes
         run: |
           git config --global user.name "github-actions[bot]"
