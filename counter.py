@@ -1,7 +1,11 @@
 import os
 
-    if os.path.isdir(os.path.join(base_path, name)) and name and name[0].isdigit()
-)
+base_path = "."
+count = 0
+
+for name in os.listdir(base_path):
+    if os.path.isdir(os.path.join(base_path, name)) and name[0].isdigit():
+        count += 1
 
 with open("README.md", "r", encoding="utf-8") as f:
     content = f.read()
