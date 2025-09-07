@@ -2,7 +2,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 
 # My LeetCode Progress
 <!-- PROBLEM_COUNT:START -->
-12 problems solved 🚀
+12 problems solved ð
 <!-- PROBLEM_COUNT:END -->
 
 <!---LeetCode Topics Start-->
@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## String
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0001-two-sum](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0049-group-anagrams) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0238-product-of-array-except-self) |
@@ -82,4 +84,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0238-product-of-array-except-self) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
