@@ -2,7 +2,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 
 # My LeetCode Progress
 <!-- PROBLEM_COUNT:START -->
-21 problems solved 🚀
+21 problems solved ð
 <!-- PROBLEM_COUNT:END -->
 
 <!---LeetCode Topics Start-->
@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0169-majority-element](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0383-ransom-note) |
+| [1708-design-parking-system](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/1708-design-parking-system) |
 ## Quickselect
 |  |
 | ------- |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Simulation
 |  |
 | ------- |
+| [1708-design-parking-system](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/1708-design-parking-system) |
 | [2058-concatenation-of-array](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/2058-concatenation-of-array) |
 ## Prefix Sum
 |  |
@@ -117,4 +119,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0013-roman-to-integer) |
+## Design
+|  |
+| ------- |
+| [1708-design-parking-system](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/1708-design-parking-system) |
 <!---LeetCode Topics End-->
