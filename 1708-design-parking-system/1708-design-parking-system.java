@@ -13,29 +13,15 @@ class ParkingSystem {
     public boolean checkPark(int carType) {
         switch(carType) {
             case 1:
-                if (this.big < 0) {
-                    return false;
-                } else {
-                    return true;
-                }
+                return this.big < 0 ? false : true;
             case 2:
-                if (this.medium < 0) {
-                    return false;
-                } else {
-                    return true;
-                }
-            case 3:
-                if (this.small < 0) {
-                    return false;
-                } else {
-                    return true;
-                }
+                return this.medium < 0 ? false : true;
+            default:
+                return this.small < 0 ? false : true;
         }
-        return true;
     }
     
     public boolean addCar(int carType) {
-        boolean canPark = true;
         switch(carType) {
             case 1:
                 this.big--;
@@ -43,12 +29,10 @@ class ParkingSystem {
             case 2:
                 this.medium--;
                 return checkPark(carType);
-            case 3:
+            default:
                 this.small--;
                 return checkPark(carType);
         }
-
-        return canPark;
     }
 }
 
