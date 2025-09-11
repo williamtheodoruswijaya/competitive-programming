@@ -2,7 +2,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 
 # My LeetCode Progress
 <!-- PROBLEM_COUNT:START -->
-16 problems solved 🚀
+16 problems solved ð
 <!-- PROBLEM_COUNT:END -->
 
 <!---LeetCode Topics Start-->
@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0058-length-of-last-word](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0383-ransom-note) |
 ## Array
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0217-contains-duplicate](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0383-ransom-note) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Sorting
 |  |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0169-majority-element](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0383-ransom-note) |
 ## Quickselect
 |  |
 | ------- |
