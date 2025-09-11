@@ -2,7 +2,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 
 # My LeetCode Progress
 <!-- PROBLEM_COUNT:START -->
-17 problems solved 🚀
+17 problems solved ð
 <!-- PROBLEM_COUNT:END -->
 
 <!---LeetCode Topics Start-->
@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0015-3sum](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1894-merge-strings-alternately](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
 | ------- |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0125-valid-palindrome](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0383-ransom-note) |
+| [1894-merge-strings-alternately](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/1894-merge-strings-alternately) |
 ## Array
 |  |
 | ------- |
