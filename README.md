@@ -2,7 +2,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 
 # My LeetCode Progress
 <!-- PROBLEM_COUNT:START -->
-25 problems solved 🚀
+25 problems solved ð
 <!-- PROBLEM_COUNT:END -->
 
 <!---LeetCode Topics Start-->
@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0125-valid-palindrome](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0344-reverse-string) |
 | [0917-boats-to-save-people](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0917-boats-to-save-people) |
 | [1894-merge-strings-alternately](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/1894-merge-strings-alternately) |
 ## String
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0058-length-of-last-word](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0242-valid-anagram) |
+| [0344-reverse-string](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0383-ransom-note) |
 | [1894-merge-strings-alternately](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/1894-merge-strings-alternately) |
 | [3462-vowels-game-in-a-string](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/3462-vowels-game-in-a-string) |
