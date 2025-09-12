@@ -2,7 +2,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 
 # My LeetCode Progress
 <!-- PROBLEM_COUNT:START -->
-23 problems solved 🚀
+23 problems solved ð
 <!-- PROBLEM_COUNT:END -->
 
 <!---LeetCode Topics Start-->
@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0242-valid-anagram](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0383-ransom-note) |
 | [1894-merge-strings-alternately](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/1894-merge-strings-alternately) |
+| [3462-vowels-game-in-a-string](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/3462-vowels-game-in-a-string) |
 ## Array
 |  |
 | ------- |
@@ -122,8 +123,17 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/0013-roman-to-integer) |
+| [3462-vowels-game-in-a-string](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/3462-vowels-game-in-a-string) |
 ## Design
 |  |
 | ------- |
 | [1708-design-parking-system](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/1708-design-parking-system) |
+## Brainteaser
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/3462-vowels-game-in-a-string) |
+## Game Theory
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/williamtheodoruswijaya/competitive-programming/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
